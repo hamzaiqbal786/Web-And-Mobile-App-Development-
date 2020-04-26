@@ -1,0 +1,207 @@
+.donationBar {
+    background-color: #4d4dff;
+    height: 48px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.socialIcons td {
+    padding: 0 30px 0 0;
+}
+
+.donationButton td {
+    padding: 0 5px 0 0;
+}
+
+.donationButton button {
+    background-color: white;
+    /* Green */
+    border: none;
+    color: black;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.donationButton button:hover {
+    cursor: pointer;
+}
+
+.donationText p {
+    margin-top: 13px;
+    margin-left: 100px;
+    color: white;
+}
+
+.navigation {
+    background-color: #f2f2f2;
+    height: 80px;
+}
+
+.logo img {
+    width: 200px;
+    height: 60px;
+    margin-left: 280px;
+    margin-top: 5px;
+}
+
+.navigation a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navigation td {
+    padding: 0 50px 0 0;
+}
+
+.navigation a:hover {
+    border-radius: 5px 5px 5px 5px;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+
+.slider img {
+    width: 100%;
+}
+
+.marqueeText {
+    background-color: #4d4dff;
+    position: relative;
+    width: 1400px;
+    height: 30px;
+    left: 10%;
+    right: 10%;
+    margin-top: 10px;
+}
+
+.marqueeText p {
+    color: white;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.aboutSaylani {
+    background-color: #f2f2f2;
+    height: 700px;
+    margin-top: 15px;
+}
+
+.introduction {
+    position: relative;
+    left: 750px;
+}
+
+.logoWithDash p {
+    margin: 1% 20% 1% 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(129, 126, 126);
+    text-align: justify;
+}
+
+.services {
+    background-color: rgb(77, 77, 228);
+    height: 300px;
+}
+
+.food {
+    width: 20%;
+    height: 100%;
+    margin-left: 10%;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+
+.family {
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+}
+
+.doctor {
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+}
+
+.education {
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+}
+
+.food img {
+    width: 17%;
+    height: 20%;
+    padding-top: 15%;
+}
+
+.food h1, h3 {
+    color: white;
+    padding-top: 5%;
+}
+
+.food h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42pt;
+}
+
+.family img {
+    width: 17%;
+    height: 20%;
+    padding-top: 15%;
+}
+
+.family h1, h3 {
+    color: white;
+    padding-top: 5%;
+}
+
+.family h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42pt;
+}
+
+.doctor img {
+    width: 17%;
+    height: 20%;
+    padding-top: 15%;
+}
+
+.doctor h1, h3 {
+    color: white;
+    padding-top: 5%;
+}
+
+.doctor h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42pt;
+}
+
+.education img {
+    width: 17%;
+    height: 20%;
+    padding-top: 15%;
+}
+
+.education h1, h3 {
+    color: white;
+    padding-top: 5%;
+}
+
+.education h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 42pt;
+}
