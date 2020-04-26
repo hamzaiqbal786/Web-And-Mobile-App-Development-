@@ -97,6 +97,11 @@
     left: 750px;
 }
 
+.introduction2 {
+    position: relative;
+    left: 700px;
+}
+
 .logoWithDash p {
     margin: 1% 20% 1% 20%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -205,3 +210,75 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 42pt;
 }
+
+.onlineSadqa {
+    overflow: hidden;
+    float: left;
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin-left: 280px;
+    margin-top: 40px;
+
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.welfare {
+    overflow: hidden;
+    float: left;
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.medical {
+    overflow: hidden;
+    float: left;
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.onlineSadqa:hover {
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
+    z-index: 10;
+}
+
+.onlineSadqa:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.welfare:hover {
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
+    z-index: 10;
+}
+
+.welfare:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+
+.medical:hover {
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
+    z-index: 10;
+}
+
+.medical:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+
